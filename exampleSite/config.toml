@@ -4,7 +4,7 @@ languageCode = "ru-ru"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "Parsa Hugo | Personal Blog Template"
+title = "WorkShop Print"
 [[menu.main]]
 hasChildren = true
 name = "Homepage"
@@ -29,20 +29,20 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
-author = "John Doe"
+address = "Гвардейцев Широнинцев 83/26"
+author = "WorkShop Print"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = "Шелкография на  ветровках, бейсболках, спецодежда промоодежда   для выставок (фартуки, жилеты,   банданы, галстуки, ), спецодежда, сумки,   практически любой текстиль, крой."
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](https://themefisher.com)"
 description = "This is meta description"
-email = "exmaple@ymail.com"
+email = "workshopprint.ua@gmail.com"
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
-mobile = "+90 000 333 22"
+mobile = "0976970424"
 preloader = true
-search = true
+search = false
 [params.cookies]
 enable = true
 expire_days = 2
