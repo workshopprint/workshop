@@ -2,7 +2,10 @@
 title: О Нас
 date: 
 description: This is meta description
-image: images/author.jpg
+image: "/images/screenshot-at-oct-07-11-43-00.png"
+categories: []
+tags: []
+type: ''
 
 ---
 ### Здравствуйте, WORKSHOP PRINT
