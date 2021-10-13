@@ -25,3 +25,4 @@ fields:
   label: type
 pages:
 - exampleSite/content/about.md
+- exampleSite/content/contact.md
