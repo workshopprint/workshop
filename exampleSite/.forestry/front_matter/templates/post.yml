@@ -23,6 +23,13 @@ fields:
 - type: text
   name: type
   label: type
+- name: colum
+  type: blocks
+  label: colum
+  template_types: []
+  config:
+    min: 
+    max: 
 pages:
 - exampleSite/content/about.md
 - exampleSite/content/contact.md
