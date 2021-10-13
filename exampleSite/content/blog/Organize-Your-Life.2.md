@@ -3,7 +3,7 @@ title: Шелкография с трансфером на ленту или П�
 date: 
 description: This is meta description
 type: featured
-image: "/images/i-1.jpg"
+image: "/images/1024w_f_457577527_o7izxdta1geahotpc0ws5qcfvsmbbt2u_nw1.jpg"
 categories:
 - Fashion
 tags:
