@@ -1,9 +1,9 @@
 ---
 title: Шелкография (трафаретная печать)
-date: 2019-05-14T14:46:10.000+06:00
+date: 
 description: This is meta description
 type: featured
-image: "/images/images-2.jpeg"
+image: "/images/14-2-1964.jpg"
 categories:
 - Valuable Idea
 tags:
