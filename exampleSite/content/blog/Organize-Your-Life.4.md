@@ -3,7 +3,7 @@ title: 'Шелкография на текстиль: одежду, сумки'
 date: 
 description: This is meta description
 type: featured
-image: "/images/1456862473183152250.jpg"
+image: "/images/1024w_f_457573490_fmjwtgem7jjjchlq0q490lspyz0ldoux_nw1.jpg"
 categories:
 - Nature
 tags:
