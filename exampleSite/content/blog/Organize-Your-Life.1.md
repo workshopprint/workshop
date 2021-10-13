@@ -3,7 +3,7 @@ title: Шелкография с трансфером на одежду, зон�
 date: 
 description: This is meta description
 type: featured
-image: "/images/unnamed-1.jpg"
+image: "/images/1024w_f_461120758_buyxiol5tzx1wcd9vsjk7cevymkc4vwq_nw1.jpg"
 categories:
 - Philosophy
 tags:
