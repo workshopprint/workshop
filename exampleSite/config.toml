@@ -1,10 +1,10 @@
 baseurl = "https://workshop.netlify.com"
 googleAnalytics = ""
-languageCode = "ru-ru"
-paginate = 6
+languageCode = "ru-ua"
+paginate = "6"
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "WorkShop Print"
+title = "Печать на одежде, шелкография и шелкотрафаретная печать | Workshop Print Харьков"
 [[menu.main]]
 hasChildren = true
 name = "Homepage"
@@ -32,20 +32,20 @@ home = ["HTML", "RSS", "JSON"]
 address = "Гвардейцев Широнинцев 83/26"
 author = "WorkShop Print"
 author_image = "images/banner-img.png"
-bio = "Шелкография на  ветровках, бейсболках, спецодежда промоодежда   для выставок (фартуки, жилеты,   банданы, галстуки, ), спецодежда, сумки,   практически любой текстиль, крой."
+bio = "Печать шелкотрафарет на одежде,ткани, крое, футболки, свитшот, худи, пакетах, коже, визитки, сублимация на ткани. Отличное качество принта,  высокое качество материала, приятные цены. Брендирование одежды и не только… Мастерская шелкографии Workshop Print."
 contact_form_action = "#send"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](https://themefisher.com)"
 description = "This is meta description"
 email = "workshopprint.ua@gmail.com"
 home = "Home"
-layout = "1"
+layout = "2"
 logo = "images/logo.png"
 mobile = "0976970424"
 preloader = true
 search = false
 [params.cookies]
 enable = true
-expire_days = 2
+expire_days = "2"
 [params.instafeed]
 access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
 enable = true
