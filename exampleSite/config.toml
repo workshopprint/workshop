@@ -6,33 +6,32 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Печать на одежде, шелкография и шелкотрафаретная печать | Workshop Print Харьков"
 [[menu.main]]
-name = "О Нас"
+hasChildren = true
+name = "Homepage"
+url = ""
+weight = 1
+[[menu.main]]
+name = "Homepage 1"
+parent = "Homepage"
+url = "homepage/home-1"
+[[menu.main]]
+name = "Homepage 2"
+parent = "Homepage"
+url = "homepage/home-2"
+[[menu.main]]
+name = "About"
 url = "about"
 weight = 2
 [[menu.main]]
-name = "Homepage 1"
-parent = "Главная"
-url = "homepage/home-1"
-weight = 1
-[[menu.main]]
-name = "Homepage 2"
-parent = "Главная"
-url = "homepage/home-2"
-weight = 2
-[[menu.main]]
-name = "Контакты | Доставка"
+name = "Contact"
 url = "contact"
 weight = 3
-[[menu.main]]
-hasChildren = true
-name = "Главная"
-weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "Гвардейцев Широнинцев 83/26"
 author = "WorkShop Print"
-author_image = "images/banner-img.png"
+author_image = "images/1-16-1.jpg"
 bio = "Печать шелкотрафарет на одежде,ткани, крое, футболки, свитшот, худи, пакетах, коже, визитки, сублимация на ткани. Отличное качество принта,  высокое качество материала, приятные цены. Брендирование одежды и не только… Мастерская шелкографии Workshop Print."
 contact_form_action = "#send"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](https://themefisher.com)"
