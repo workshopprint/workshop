@@ -1,10 +1,17 @@
 baseurl = "https://workshop.netlify.com"
+categories = []
+colum = []
+date = ""
+description = ""
 googleAnalytics = ""
+image = "/images/1-16-1.jpg"
 languageCode = "ru-ua"
 paginate = "6"
 summaryLength = "10"
+tags = []
 theme = "parsa-hugo"
 title = "Печать на одежде, шелкография и шелкотрафаретная печать | Workshop Print Харьков"
+type = ""
 [[menu.main]]
 hasChildren = true
 name = "Homepage"

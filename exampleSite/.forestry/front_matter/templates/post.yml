@@ -31,5 +31,6 @@ fields:
     min: 
     max: 
 pages:
+- exampleSite/config.toml
 - exampleSite/content/about.md
 - exampleSite/content/contact.md
